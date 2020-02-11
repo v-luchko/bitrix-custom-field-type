@@ -1,0 +1,29 @@
+{
+  "name": "v-luchko/custom-iblock-and-user-field-type",
+  "type": "library",
+  "version": "1.0",
+  "description": "Пример создания кастомного типа свойств инфоблока и типа пользовательского поля",
+  "keywords": [
+    "bitrix",
+    "iblock",
+    "custom",
+    "userfield",
+    "property",
+    "type"
+  ],
+  "homepage": "https://maximaster.ru/",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Viacheslav Luchko",
+      "email": "v.luchko@maximaster.ru",
+      "role": "Junior developer"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/v-luchko/bitrix-custom-field-types.git"
+    }
+  ]
+}
